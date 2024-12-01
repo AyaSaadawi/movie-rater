@@ -33,15 +33,15 @@ To get started with this project:
    git clone https://github.com/AyaSaadawi/movie-rater.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd movie-rater
+   ```bash
+   cd movie-rater
+
 Compile and run the Java files:
 
-bash
-Copy code
+```bash
 javac Movie.java Rater.java Rating.java
 java Rater
+
 Follow the prompts to rate movies and view their details.
 
 Future Enhancements
