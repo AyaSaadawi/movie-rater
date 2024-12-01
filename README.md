@@ -1,8 +1,3 @@
-# movie-rater
-Here's a simple and clean README.md template for your project. You can customize it as needed:
-
-markdown
-Copy code
 # Movie Rater
 
 A simple Java-based application that allows users to rate movies and provides basic information about movies like title, year, genres, and more. The application also provides functionality for movie data management and user ratings.
